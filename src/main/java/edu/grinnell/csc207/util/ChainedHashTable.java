@@ -9,8 +9,8 @@ import java.util.function.BiConsumer;
 /**
  * A simple implementation of chained hash tables.
  *
- * @author Your Name Here
- * @author Your Name Here
+ * @author Sebastian Manza
+ * @author Sunjae Kim
  * @author Samuel A. Rebelsky
  *
  * @param <K>
